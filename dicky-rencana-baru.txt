@@ -1,8 +1,7 @@
 rencana baru
   belajar python
   belajar php fremwork
-^ angular
-^ react
+^ belajar view
 belajar bahasa asing
-^ php fremworks
-^ laravel
+struktur dasar data
+^ belajar laravel
