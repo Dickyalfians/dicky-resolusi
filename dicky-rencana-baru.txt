@@ -1,5 +1,7 @@
 rencana baru
   belajar python
   belajar php fremwork
+^ belajar view
 belajar bahasa asing
 struktur dasar data
+^ belajar laravel
